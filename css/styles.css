@@ -1,3 +1,8 @@
+body {
+    font-family: "Roboto", sans-serif;
+    letter-spacing: 0.02em;
+    color: var(--primary-text-color);
+}
 
 /* Header styles */
 
